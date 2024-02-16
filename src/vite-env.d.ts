@@ -58,5 +58,4 @@ type PokemonState = {
     setHp1: React.Dispatch<React.SetStateAction<number>>;
     hp2: number;
     setHp2: React.Dispatch<React.SetStateAction<number>>;
-    firstTurn: Number;
 }

@@ -10,8 +10,7 @@ const PokemonContext = createContext<PokemonState>(
         hp1: 0, 
         setHp1: () => {}, 
         hp2: 0, 
-        setHp2: () => {}, 
-        firstTurn: 1
+        setHp2: () => {}
     }
 );
 
